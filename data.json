@@ -1,0 +1,39 @@
+{
+  "question": [
+    "Q1. Who developed the Python language?",
+    "Q2. In which language is Python written?",
+    "Q3. Which one of the following is the correct extension of the Python file?",
+    "Q4.Which Source is Best For Learning Programming ?"
+    
+  ],
+  "answer": [
+    2,
+    3,
+    1,
+    1
+  ],
+  "options": [
+
+    ["Zim Den",
+      "Guido van Rossum",
+      "Niene Stom",
+      "Wick van Rossum"
+    ],
+    ["English",
+      "PHP",
+      "C",
+      "All of the above"
+    ],
+    [".py",
+      ".python",
+      ".p",
+      "None of these"
+    ],
+    ["Programming School",
+      "Self",
+      "Friends",
+      "None"
+    ]
+    
+  ]
+}
